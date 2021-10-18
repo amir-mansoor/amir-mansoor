@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @amir-mansoor
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning programming
-- 📫 Facebook link https://web.facebook.com/MeerHadi.5005/
-
 <h1 align="center">Hi 👋, I'm Amir Mansoor</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
