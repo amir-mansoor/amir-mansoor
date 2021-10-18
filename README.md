@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming
 - 📫 Facebook link https://web.facebook.com/MeerHadi.5005/
 
-![](https://komarev.com/ghpvc/?username=amir-mansoor)
 
 <!---
 amir-mansoor/amir-mansoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
