@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./computercoding.gif" align="center" style="width: 100%; height=60%" />
+<img src="./computercoding.gif" align="center" style="width: 60%; height=60%" />
 </div>  
   
 
