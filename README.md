@@ -38,10 +38,8 @@ I specialize in developing full-stack solutions, from interactive user interface
 
 ## 🌍 Projects & Goals  
 
-- 📈 **Current Projects**:  
-  - Building a **Job Board for Niche Industries** using the MERN stack.  
-  - Developing a **Full-Stack Chat App** using the MERN stack.
-  - Creating a **Platform for Coding Challenges** featuring problem-solving and solutions.   
+- 📈 **Current Projects**:    
+  - Developing a **Full-Stack Chat App** using the MERN stack.   
 
 ---
 
