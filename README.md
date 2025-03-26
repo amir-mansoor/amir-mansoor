@@ -16,32 +16,6 @@ I specialize in developing full-stack solutions, from interactive user interface
 - 💡 Exploring cutting-edge technologies in AI, automation, and cloud computing.  
 - 🛠️ Crafting tools and platforms for niche industries and developers.  
 
----
-
-## 🛠️ My Tech Stack  
-
-### Frontend:
-- **Languages**: JavaScript, TypeScript  
-- **Libraries/Frameworks**: React, Next.js, Redux  
-- **Styling**: Tailwind CSS,Bootstrap
-
-### Backend:
-- **Languages**: Python, Node.js  
-- **Frameworks**: Flask, Express  
-- **Databases**: MongoDB 
-
-### Other Tools:
-- **Version Control**: Git, GitHub  
-- **Others**: RESTful APIs, WebSockets 
-
----
-
-## 🌍 Projects & Goals  
-
-- 📈 **Current Projects**:    
-  - Developing a **Full-Stack Chat App** using the MERN stack.   
-
----
 
 ## 📬 Get in Touch  
 
